@@ -1,0 +1,23 @@
+.titulo{
+	color: pink;
+	font-size: 5em;
+	background:#839192;
+}
+.subtitulo{
+	color:#9B59B6;
+	font-size: 3em;
+}
+.parrafo{
+	font-size: 2em;
+}
+img{
+	display: block;
+	width: 30%;
+}
+.contenedor{
+	display: flex;
+	justify-content: space-between;
+}
+.img{
+	width: 20%;
+}
